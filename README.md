@@ -36,6 +36,8 @@ ssh -Y username@ip_address
 sudo apt install htop
 sudo apt install gpustat
 sudo apt install tmux
+sudo apt-get install git
+sudo apt install curl
 ```
 
 
